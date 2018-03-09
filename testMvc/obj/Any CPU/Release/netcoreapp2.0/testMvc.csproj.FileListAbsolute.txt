@@ -1,0 +1,10 @@
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\bin\Any CPU\Release\netcoreapp2.0\testMvc.deps.json
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\bin\Any CPU\Release\netcoreapp2.0\testMvc.runtimeconfig.json
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\bin\Any CPU\Release\netcoreapp2.0\testMvc.runtimeconfig.dev.json
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\bin\Any CPU\Release\netcoreapp2.0\testMvc.dll
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\bin\Any CPU\Release\netcoreapp2.0\testMvc.pdb
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\obj\Any CPU\Release\netcoreapp2.0\testMvc.csproj.CoreCompileInputs.cache
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\obj\Any CPU\Release\netcoreapp2.0\testMvc.AssemblyInfoInputs.cache
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\obj\Any CPU\Release\netcoreapp2.0\testMvc.AssemblyInfo.cs
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\obj\Any CPU\Release\netcoreapp2.0\testMvc.dll
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\obj\Any CPU\Release\netcoreapp2.0\testMvc.pdb

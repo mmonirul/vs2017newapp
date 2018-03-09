@@ -1,0 +1,12 @@
+C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=testMvc
+--content-root=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\Home\About.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\Home\Contact.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\Home\Index.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\Shared\Error.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\Shared\_Layout.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\_ViewImports.cshtml
+--file=C:\Users\Monirul Islam\Desktop\DotNet\testMvc\testMvc\Views\_ViewStart.cshtml

@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/testMvc/v15/Server/sqlite3
+/testMvc/bin/Any CPU/Release/netcoreapp2.0
+/testMvc/bin/Release/netcoreapp2.0
+/testMvc/bin/Debug/netcoreapp2.0
+/testMvc/obj/Debug/netcoreapp2.0
